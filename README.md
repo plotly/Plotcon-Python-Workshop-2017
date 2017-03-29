@@ -25,4 +25,4 @@ This is a rough outline of the workshop's contents. If you would like to go over
     - Advanced interactive reporting
 
 Screenshot from example dash app: 
-!(Dash Pharma)[http://moderndata.plot.ly/wp-content/uploads/2017/03/DASH.png]
+![Dash Pharma](http://moderndata.plot.ly/wp-content/uploads/2017/03/DASH.png)
