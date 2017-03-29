@@ -7,16 +7,18 @@ This is a rough outline of the workshop's contents. If you would like to go over
 
 - [plotly.py](https://plot.ly/python)
   - Basic charting
-  - Interactive charing offline and in Jupyter notebooks
+  - Interactive charting offline and in Jupyter notebooks
   - Plotting dataframes with Pandas
   - Advanced plotting:
     - Animations
     - Dropdowns
 
-- [dash](https://www.youtube.com/watch?v=5BAthiN0htc) - Shiny for Python
+- [dash](https://www.youtube.com/watch?v=5BAthiN0htc) - "R Shiny for Python"
   - Why Dash? Add user interfaces to your python data analysis
   - Creating your first Dash app
-  - Advanced callbacks: binding interactivity to button clicks, hover events in graphs, and more
+  - Publishing Dash apps
+  - Adding D3.js Plotly charts
+  - Advanced callbacks: Binding interactivity to button clicks, hover events in graphs, drilldowns, and more
   - Showcase
     - Plotting big data with Dash
     - Interfacing to parameters in data analysis routines with dropdowns, sliders, buttons
