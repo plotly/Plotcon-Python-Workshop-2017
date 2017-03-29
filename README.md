@@ -23,3 +23,6 @@ This is a rough outline of the workshop's contents. If you would like to go over
     - Plotting big data with Dash
     - Interfacing to parameters in data analysis routines with dropdowns, sliders, buttons
     - Advanced interactive reporting
+
+Screenshot from example dash app: 
+!(Dash Pharma)[http://moderndata.plot.ly/wp-content/uploads/2017/03/DASH.png]
